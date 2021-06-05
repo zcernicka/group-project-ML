@@ -1,4 +1,4 @@
-#-GROUP PROJECT-
+# -GROUP PROJECT-
 
 Team 9 decided to take it a one step further and perform sentiment analysis & topic modelling (using LDA) for the full house description.
 Sentence tokenizer was applied to detect the language of every sentence and eventually drop English sentences to be able to use Dutch dictionary.
