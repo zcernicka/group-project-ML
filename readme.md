@@ -7,8 +7,6 @@ It has however fulfilled its purpose and the learning outcomes were increased.
 To provide a proof of working, team 9 attached a Jupyter notebook with sentiment and topic modelling located in notebooks/sentiment and topic modelling.
 
 
-Please download the raw files from the following link (available until 25-01-2020):
-https://we.tl/t-KHGYxaqpIH
 
 Trello Board
 ![Screenshot](trello_board.PNG)
