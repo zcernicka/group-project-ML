@@ -1,0 +1,19 @@
+{
+  "base_folder": "C:/Users/kerem/Documents/Master/Q 1/DB Mgmt/Artificial intelligence/product3team9/data",
+  "loading_params": {
+            "reload_clean_data": true
+            },
+  "cleaning_params": {},
+        "training_params": {
+            "test_perc": 0.2,
+            "hypertuning": {
+                "RF_params": {
+                    "n_estimators": [100, 125, 150],
+                    "min_samples_split": [40, 50, 60],
+                    "max_depth": [4,6,8]},
+                "XGB_params": {
+                    "n_estimator": [100, 125, 150],
+                    "max_depth": [8,10,12]}
+                }
+            }
+        }

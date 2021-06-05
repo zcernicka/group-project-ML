@@ -1,0 +1,9 @@
+data
+__pycache__
+/data
+*.csv
+/.vscode
+*.egg-info/
+*__pycache__/
+*.ipynb-checkpoints/
+*.idea/
